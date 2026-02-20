@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yehia Shorim</h1>
 <h3 align="center">
 👨‍🎓 Junior Computer Science Student (AI Minor) <br/>
-👨‍💻 Full-Stack developer & AI Engineer
+👨‍💻 Full-Stack web developer & AI student
 </h3>
 
 <br/>
