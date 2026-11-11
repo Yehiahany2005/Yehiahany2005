@@ -12,11 +12,9 @@
 
 ## 👨‍💻 About Me
 
-🎓 Junior Computer Science student at Misr International University, minoring in Artificial Intelligence (Expected Graduation: 2027).
+🎓 Senior Computer Science student at Misr International University, minoring in Artificial Intelligence (Expected Graduation: 2027).
 
 🌍 Graduated with honors from Lycée International Balzac with a French Baccalaureate. Growing up in a multicultural environment shaped my adaptability, communication skills, and global perspective. I am fluent in French, Arabic, and English.
-
-🎾 Competitive squash athlete — discipline, resilience, leadership, and strong performance under pressure are qualities I bring into both academics and engineering.
 
 ---
 
